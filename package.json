@@ -1,0 +1,27 @@
+{
+  "name": "school-marketing-app",
+  "version": "5.0.0",
+  "private": true,
+  "engines": {
+    "node": "16.13.0"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.1.0",
+    "@mui/material": "latest",
+    "@mui/styles": "^5.1.0",
+    "clsx": "latest",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
