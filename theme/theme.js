@@ -34,10 +34,10 @@ theme.typography.body1 = {
   ...fontFamily,
   fontSize: '1rem',
   '@media (min-width:1161px)': {
-    fontSize: '1.5rem',
+    fontSize: '1.1rem',
   },
   '@media (max-width:1160px) and (min-width: 451px)': {
-    fontSize: '1.2rem',
+    fontSize: '1.1rem',
   },
   '@media (max-width: 450px)': {
     fontSize: '1rem',
