@@ -4,7 +4,7 @@ export const tableColumn = [
     accessor: 'id',
     Cell: (val) => {
       const { id } = val.row.original;
-      return <div style={{ width: 120, background: 'red' }}>{id}</div>;
+      return <div style={{ width: 120 }}>{id}</div>;
     },
   },
   { Header: 'Name', accessor: 'name' },
