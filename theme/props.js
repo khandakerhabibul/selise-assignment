@@ -11,7 +11,7 @@ export const props = {
       borderRadius: 4,
     },
     borderWidth: 1,
-    buzzContainerWidth: 1252,
-    buzzBorderRadius: 4,
+    containerWidth: 1252,
+    borderRadius: 4,
   },
 };

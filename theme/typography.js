@@ -30,5 +30,8 @@ export const typography = {
     body1: {
       fontSize: 22,
     },
+    filterCategory: {
+      fontSize: 14,
+    },
   },
 };

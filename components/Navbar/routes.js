@@ -1,26 +1,30 @@
 export const getRoutes = () => [
   {
-    name: 'Home',
+    name: 'Shop',
     link: '/',
   },
   {
-    name: 'Product',
-    link: '/product',
+    name: 'Espresso bars',
+    link: '/espresso',
   },
   {
-    name: 'Features',
-    link: '/features',
+    name: 'For the office',
+    link: '/office',
   },
   {
-    name: 'Pricing',
-    link: '/pricing',
+    name: 'Learn',
+    link: '/learn',
   },
   {
-    name: 'Resources',
-    link: '/resources',
+    name: 'FAQ',
+    link: '/faq',
   },
   {
-    name: 'Blog',
-    link: '/blog',
+    name: 'ViAcademy',
+    link: '/viacademy',
+  },
+  {
+    name: 'About us',
+    link: '/about',
   },
 ];
